@@ -1,0 +1,6 @@
+{
+  "name": "JeansFaction Manager",
+  "description": "Sistema de gestão para facção de jeans com cadastro de clientes, produtos, faturamento automatizado e relatórios PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
